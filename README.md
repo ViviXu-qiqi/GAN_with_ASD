@@ -1,4 +1,4 @@
-# PULSE-with-Anti-Spoofing-Detection
+# GAN_with_ASD(Anti-Spoofing-Detection)
 Machine Learning Course Project at 2020 Fall
 
 Some codes were borrowed from: https://github.com/zion-king/Photo-Upsampling-via-Latent-Space-Exploration-of-Generative-Models#table-of-contents  
