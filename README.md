@@ -2,6 +2,7 @@
 Machine Learning Course Project at 2020 Fall
 
 Project report is in the branch, named Project report.pdf.
+
 Group member: Ningwei Xu(nx334 N10470557) Yipei Wang(yw4576 N14021400)
 
 Some codes were borrowed from: https://github.com/zion-king/Photo-Upsampling-via-Latent-Space-Exploration-of-Generative-Models#table-of-contents  
