@@ -1,7 +1,7 @@
 # GAN_with_ASD(Anti-Spoofing-Detection)
 Machine Learning Course Project at 2020 Fall
 
-Project report is in the branch, named Project report.pdf.
+Project report is in the branch list, named Project report.pdf.
 
 Group member: Ningwei Xu(nx334 N10470557) Yipei Wang(yw4576 N14021400)
 
